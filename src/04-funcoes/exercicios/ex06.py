@@ -2,7 +2,7 @@
 
 def calcular_volume(informacoes):
     """ Calcula o volume por meio das informacoes fornecidas """
-    return (informacoes['comprimento'] * informacoes['altura'] * informacoes['largura'] / 3)
+    return (informacoes['comprimento'] * informacoes['altura'] * informacoes['largura'] / 1000)
 
 def potencia_termostato(informacoes):
     """ Calcula a potência do termostato por meio das informacoes fornecidas """
@@ -32,7 +32,7 @@ VOLUME = calcular_volume(INFOS)
 POTENCIA = potencia_termostato(INFOS)
 FAIXA_FILTRAGEM = faixa_filtragem(INFOS)
 
-print(f'Volume: {VOLUME}\n' +
+print(f'Volume: {VOLUME} Litros\n' +
       f'Potência requirida do termostato: {POTENCIA}\n' +
       f'Filtragem mínima: {FAIXA_FILTRAGEM[0]}\n' +
       f'Filtragem máxima: {FAIXA_FILTRAGEM[1]}')
