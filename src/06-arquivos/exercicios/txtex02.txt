@@ -1,0 +1,6 @@
+001,LIPAI,Marcelo
+002,Corinthians,Osmar
+003,Palmeiras,Leila
+004,Vasco,Pedrinho
+005,Sao Paulo,Casares
+006,Botafogo,John
