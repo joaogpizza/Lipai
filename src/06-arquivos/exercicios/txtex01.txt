@@ -1,0 +1,6 @@
+SP000001,Maria da Silva,maria@email.com
+SP000002,Pedro Gomes,pedro@email.com
+SP000003,João Santos,joao@email.com
+SP000004,Memphis Depay,memphis@email.com
+SP000005,Yuri Alberto,yuri@email.com
+SP000006,Rodrigo Garro,garro@email.com
