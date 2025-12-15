@@ -14,6 +14,7 @@ def faixa_filtragem(informacoes):
     volume = calcular_volume(informacoes)
     return (2*volume, 3*volume)
 
+breakpoint()
 COMPRIMENTO = float(input('Digite o comprimento do aquário, em cm: '))
 ALTURA = float(input('Digite a altura do aquário, em cm: '))
 LARGURA = float(input('Digite a largura do aquário, em cm: '))

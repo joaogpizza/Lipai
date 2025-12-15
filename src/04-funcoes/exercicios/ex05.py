@@ -26,6 +26,7 @@ def situacao_individuo(imc):
         return 'normal'
     return 'perder peso'
 
+breakpoint()
 PESO = float(input('Digite seu peso (kg): '))
 ALTURA = float(input('Digite sua altura (m): '))
 
