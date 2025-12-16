@@ -24,7 +24,7 @@ class Pessoa:
         self.cpf = cpf
         self.nome = nome
         self.telefone = telefone
-        self.enderecos = []
+        self.enderecos = [endereco]
 
     def add_endereco(self, endereco):
         self.enderecos.append(endereco)
