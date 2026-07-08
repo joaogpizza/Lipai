@@ -1,0 +1,3 @@
+src/09-segmentacao/limiarizacao/data/**/*.png
+src/09-segmentacao/limiarizacao/data/**/*.tif*
+src/09-segmentacao/limiarizacao/data/mascaras/**/*.tif*
