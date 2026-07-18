@@ -1,3 +1,6 @@
 src/09-segmentacao/limiarizacao/data/**/*.png
 src/09-segmentacao/limiarizacao/data/**/*.tif*
 src/09-segmentacao/limiarizacao/data/mascaras/**/*.tif*
+src/09-segmentacao/fcn/data/**/*.png
+src/09-segmentacao/fcn/data/**/*.tif*
+src/09-segmentacao/fcn/data/mascaras/**/*.png
