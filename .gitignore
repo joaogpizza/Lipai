@@ -4,3 +4,6 @@ src/09-segmentacao/limiarizacao/data/mascaras/**/*.tif*
 src/09-segmentacao/fcn/data/**/*.png
 src/09-segmentacao/fcn/data/**/*.tif*
 src/09-segmentacao/fcn/data/mascaras/**/*.png
+src/09-segmentacao/u_net/data/**/*.png
+src/09-segmentacao/u_net/data/**/*.tif*
+src/09-segmentacao/u_net/data/mascaras/**/*.png
